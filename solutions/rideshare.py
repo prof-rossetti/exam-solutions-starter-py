@@ -5,6 +5,12 @@ trip = {
         "avg_rating": 3.6,
         "total_rides": 950
     },
+    "vehicle": {
+        "make": "Tesla",
+        "model": "Cybertruck",
+        "year": 2021,
+        "color": "silver"
+    },
     "rideshare": True,
     "pickup_location": "Union Station",
     "stops": [

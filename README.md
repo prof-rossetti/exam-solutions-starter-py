@@ -4,9 +4,7 @@ A workspace for solving selected Python coding questions from this [Final Exam](
 
 ## Instructions
 
-Review the final exam PDF. When you reach question _____________, ____, and ___, use the data provided in the "data" directory to answer each of the questions about that dataset.
-
-Write Python code to process the data provided in each script in the app directory.
+Write Python code in each file in the "solutions" directory, to process the provided data.
 
 Each file contains commented-out questions to guide you.
 
@@ -34,18 +32,18 @@ pip install pandas # for example, only if you want to use the pandas package
 Process library data:
 
 ```sh
-python data/library.py
+python solutions/library.py
 ```
 
 
-Process rideshare data:
+Process ride-share data:
 
 ```sh
-python data/rideshare.py
+python solutions/rideshare.py
 ```
 
 Process social media data:
 
 ```sh
-python data/social.py
+python solutions/social.py
 ```
