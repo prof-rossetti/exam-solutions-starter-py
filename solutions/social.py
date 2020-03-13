@@ -45,3 +45,26 @@ if __name__ == "__main__":
     print(tweets)
 
     # breakpoint()
+
+    #
+    # QUESTION A
+    #
+    # "Print" the screen name of the user who authored the first tweet (i.e. "sandwhoa"):
+
+
+    #
+    # QUESTION B
+    #
+    # Of all the tweets which include the phrase "@sandwhoa" in their full text,
+    # ... "print" the screen name of the user who authored that tweet,
+    # ... each on a separate line (i.e. "person2", then "person3"):
+
+
+    #
+    # QUESTION C
+    #
+    # Of all the tweets which include the phrase "@sandwhoa" in their full text,
+    # ... determine which tweet has the greatest number of likes,
+    # ... and then "print" the screen name of the user who authored that tweet (i.e. "person3").
+    # ... FYI: Assume the tweet order can change at any time
+    # ... and has no relationship with the number of likes.

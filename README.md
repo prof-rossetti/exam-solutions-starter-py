@@ -1,18 +1,10 @@
 # Exam Review 2020
 
-A workspace for solving selected Python coding questions from this [Final Exam](EXAM.pdf).
-
-## Instructions
-
-Write Python code in each file in the "solutions" directory, to process the provided data.
-
-Each file contains commented-out questions to guide you.
-
-When you solve one or more questions, make a commit to save your work, and then push back up to GitHub at least once before you're done.
+A workspace for solving selected Python coding questions related to processing basic data structures.
 
 ## Setup
 
-First, [fork this starter repo](__________) under your own control, then clone or download your repo onto your local computer. Make sure to navigate there from the desktop:
+First, [fork this starter repo](https://github.com/prof-rossetti/exam-solutions-starter-py) under your own control, then clone or download your repo onto your local computer. Make sure to navigate there from the desktop:
 
 ```sh
 cd exam-solutions-starter-py/
@@ -27,23 +19,20 @@ conda activate exam-env
 pip install pandas # for example, only if you want to use the pandas package
 ```
 
-## Usage
+## Instructions
 
-Process library data:
+In each file in the "solutions" directory, write Python code to process the provided data and answer the provided questions.
 
 ```sh
+python solutions/kitchen.py
+
 python solutions/library.py
-```
 
+python solutions/reporting.py
 
-Process ride-share data:
-
-```sh
 python solutions/rideshare.py
-```
 
-Process social media data:
-
-```sh
 python solutions/social.py
 ```
+
+After solving one or more questions, make a commit to save your work. And remember to push back up to GitHub at least once before you're done.
